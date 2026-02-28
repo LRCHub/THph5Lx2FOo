@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "All Good Things (Come To An End)",
+  "base_artist": "Nelly Furtado",
+  "createdAt": "2026-02-28T07:03:09.474803Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All Good Things (Come to an End)",
+      "artist": "Acaville",
+      "has_synced": true,
+      "path": "select/01_All_Good_Things_(Come_to_an_End)_Acaville.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All good things (come to an end)",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/02_All_good_things_(come_to_an_end)_Various.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All Good Things (Come To An End)",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/03_All_Good_Things_(Come_To_An_End)_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All Good Things (Come To An End)",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/04_All_Good_Things_(Come_To_An_End)_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All Good Things (Come to an End)",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/05_All_Good_Things_(Come_to_an_End)_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All Good Things (Come to An End)",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/06_All_Good_Things_(Come_to_An_End)_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All Good Things (Come to an End)",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/07_All_Good_Things_(Come_to_an_End)_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All Good Things (Come To An End)",
+      "artist": "NRD1",
+      "has_synced": true,
+      "path": "select/08_All_Good_Things_(Come_To_An_End)_NRD1.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All Good Things Come to an End",
+      "artist": "The Grassroots",
+      "has_synced": false,
+      "path": "select/09_All_Good_Things_Come_to_an_End_The_Grassroots.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All Good Things (Come to an End)",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/10_All_Good_Things_(Come_to_an_End)_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All Good Things (Come To An End)",
+      "artist": "Nelly Furtado",
+      "has_synced": false,
+      "path": "select/pl_01_All_Good_Things_(Come_To_An_End)_Nelly_Furtado.txt"
+    }
+  ]
+}
